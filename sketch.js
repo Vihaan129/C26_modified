@@ -59,5 +59,5 @@ function draw(){
 
     bird.display();
     platfrom.display();
-    console.log("platform added");
+
 }
